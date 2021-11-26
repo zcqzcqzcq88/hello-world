@@ -16,4 +16,4 @@ char*StrCpy(char*src)
     dst[len]='\0';
     
     return dst;
-}
+    }

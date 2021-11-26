@@ -15,5 +15,5 @@ char*StrCpy(char*src)
     //字符串结束标记
     dst[len]='\0';
     
-    return dst;
+    return  dst；
 }

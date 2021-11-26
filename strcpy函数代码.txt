@@ -1,3 +1,5 @@
+lines (15 sloc)  362 Bytes
+   
 char*StrCpy(char*src)
 {
     //计算src的长度
@@ -15,5 +17,5 @@ char*StrCpy(char*src)
     //字符串结束标记
     dst[len]='\0';
     
-    return  dst；
-}
+    return dst;
+    }

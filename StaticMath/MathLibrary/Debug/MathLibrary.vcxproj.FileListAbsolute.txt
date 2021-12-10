@@ -1,0 +1,2 @@
+D:\c语言文件\StaticMath\Debug\MathLibrary.pdb
+D:\c语言文件\StaticMath\MathLibrary\Debug\MathLibrary.pdb
